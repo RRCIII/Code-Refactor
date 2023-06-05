@@ -29,7 +29,7 @@ THEN I find a concise, descriptive title
 
 * https://rrciii.github.io/Code-Refactor/
 
-* Screenshots: <Img src= />
+* Screenshots: <Img src="  />
 
 
 
