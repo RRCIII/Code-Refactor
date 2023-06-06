@@ -29,8 +29,7 @@ THEN I find a concise, descriptive title
 
 * https://rrciii.github.io/Code-Refactor/
 
-* Screenshots: <Img src="  />
-
+* Screenshots:
 
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
