@@ -29,7 +29,6 @@ THEN I find a concise, descriptive title
 
 * https://rrciii.github.io/Code-Refactor/
 
-* Screenshots:
-
+* Screenshots:![Website_Horiseon_main_Webpage](https://github.com/RRCIII/Code-Refactor/assets/132403132/12a688f6-4f62-4822-9cfe-da26f5c277e8)
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
