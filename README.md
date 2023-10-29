@@ -1,9 +1,8 @@
-# HTML, CSS, and Git: Code Refactor - Modify Existing Horiseon Webpage 
+# HTML, CSS, and Git: Code Refactor - Modify Existing Horiseon Webpage
 
+## Description
 
-## Description 
 As a developer, I wanted to modify and refactor exisiting code to improve accessibilty via organization on the Horiseon webpage.
-
 
 **ACCEPTANCE CRITERIA**
 
@@ -25,10 +24,8 @@ THEN I find a concise, descriptive title
 
 ## Usage
 
-* This webpage can be used for educational purposes on the accesibility and importance of SEO on websites. See link to deployed webpage below.
+- This webpage can be used for educational purposes on the accesibility and importance of SEO on websites. See link to deployed webpage below.
 
-* https://rrciii.github.io/Code-Refactor/
-
-* Screenshots:![Website_Horiseon_main_Webpage](https://github.com/RRCIII/Code-Refactor/assets/132403132/12a688f6-4f62-4822-9cfe-da26f5c277e8)
+- Screenshots:![Website_Horiseon_main_Webpage](https://github.com/RRCIII/Code-Refactor/assets/132403132/12a688f6-4f62-4822-9cfe-da26f5c277e8)
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
